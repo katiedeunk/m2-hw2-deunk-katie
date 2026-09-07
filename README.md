@@ -10,9 +10,9 @@ This project is a simple webpage created to share my love of needlepointing. I w
 
 In a world where we spend so much time scrolling, multitasking, and feeling overstimulated, needlepoint gives us a chance to pause for a little while. Needlepoint is a creative, cozy, and relaxing hobby that allows me to do just that. I enjoy choosing different canvas designs, picking out thread colors, and watching a project come together one stitch at a time. 
 
-It's a great excuse to sit down, relax, and say, "Just one more stitch."
+It's a great excuse to sit down, relax, and say, "just one more stitch."
 
-... and then realize an hour has passed.
+...and then realize an hour has passed.
 
 ## ✂️ What's in My Needpoint Bag?
 
@@ -29,7 +29,7 @@ A successful needlepoint project requires a few important supplies:
 If you're thinking about giving needlepoint a try, but don't know where to begin, here are a few tips that helped me: 
 
 1. Start with a design you **actually** like.
-2. Don't worry about making every stitch perfect. (The back of your canvas is none of your business)
+2. Don't worry about making every stitch perfect. The back of your canvas is none of your business!
 3. Keep your thread organized.
 4. Take your time. It's meant to be a **relaxing** hobby.
 5. Remeber - mistakes can *usually* be fixed.
